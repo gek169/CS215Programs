@@ -1,0 +1,41 @@
+Proof of compiling on grace is in my home folder, in Programming, in the CS 215 folder.
+
+logs of last time I recompiled are right here:
+gek@gek-pc:~$ ssh grace.bluegrass.kctcs.edu -ldwebster0035
+Password: 
+
+#################################################
+#:::::::::::::::::::::::::::::::::::::::::::::::#
+#:#############################################:#
+#:#                                           #:#
+#:#                Welcome to                 #:#
+#:#         grace.bluegrass.kctcs.edu         #:#
+#:#                     a                     #:#
+#:#  Bluegrass Community & Technical College  #:#
+#:#                  server.                  #:#
+#:#                                           #:#
+#:#############################################:#
+#:::::::::::::::::::::::::::::::::::::::::::::::#
+#################################################
+
+Last login: Fri Feb  8 19:07:54 2019 from 75.90.204.97
+dwebster0035@grace:~$ ls
+CPU_RAYTRACER.png  Programming  public_html
+dwebster0035@grace:~$ cd Programming/
+dwebster0035@grace:~/Programming$ ls
+CIT105Project  CS_215
+dwebster0035@grace:~/Programming$ cd CS_215/
+dwebster0035@grace:~/Programming/CS_215$ ls
+testing code.cpp  testing.out
+dwebster0035@grace:~/Programming/CS_215$ g++ testing\ code.cpp -o testing.out
+dwebster0035@grace:~/Programming/CS_215$ chmod 777 testing.out
+dwebster0035@grace:~/Programming/CS_215$ ls
+testing code.cpp  testing.out
+dwebster0035@grace:~/Programming/CS_215$ ls -al
+total 48
+drwxrwxrwx  2 dwebster0035 domain users  4096 Feb  8 19:12 .
+drwx--x---+ 4 dwebster0035 domain users  4096 Feb  8 19:06 ..
+-rw-r--r--  1 dwebster0035 domain users 17911 Feb  8 19:07 testing code.cpp
+-rwxrwxrwx  1 dwebster0035 domain users 18544 Feb  8 19:12 testing.out
+dwebster0035@grace:~/Programming/CS_215$ 
+

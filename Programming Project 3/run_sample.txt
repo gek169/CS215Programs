@@ -1,0 +1,134 @@
+
+
+
+gek@Buster:~/Programming/CS 215/Programming Project 3$ echo "" > run_sample.txt
+gek@Buster:~/Programming/CS 215/Programming Project 3$ ./testing.out 
+
+1) New Customer Arrival
+2) Serve Customer
+3) Customer left- remove from waiting list
+4) List all customers waiting for service
+5)Quit
+CHOOSE WISELY: 1
+
+Name?
+Fred
+
+Purpose?
+None
+
+Month? (1-12)
+2
+
+Day? (1-31)
+2
+
+Year? (AD, Non-abbreviated)
+2000
+
+Hour? (1-24 aka US Military Time)
+2
+
+Minute? (0 - 59)
+2
+
+1) New Customer Arrival
+2) Serve Customer
+3) Customer left- remove from waiting list
+4) List all customers waiting for service
+5)Quit
+CHOOSE WISELY: 1
+
+Name?
+Joe
+
+Purpose?
+Not doing anything
+
+Month? (1-12)
+9
+
+Day? (1-31)
+30
+
+Year? (AD, Non-abbreviated)
+2009
+
+Hour? (1-24 aka US Military Time)
+12
+
+Minute? (0 - 59)
+2
+
+1) New Customer Arrival
+2) Serve Customer
+3) Customer left- remove from waiting list
+4) List all customers waiting for service
+5)Quit
+CHOOSE WISELY: 2
+
+
+Fred with 150 IQ points has arrived at the customer service desk!
+ They want "None"
+
+STATUS
+Prof. Robert Chirwa: 100 HP 134 IQ | Fred: 100 HP 150 IQ 
+OPTIONS:
+1)Argue
+2)Inflamatory Insult
+3)Item
+4)Fight
+5)Run Away
+5
+You run out of the store and flee your post. Your IQ decreases significantly.
+They have decreased your functional IQ by a small amount as well as dealing some damage.
+
+You are amazingly not fired and return to your job. You feel much less intelligent than before.
+1) New Customer Arrival
+2) Serve Customer
+3) Customer left- remove from waiting list
+4) List all customers waiting for service
+5)Quit
+CHOOSE WISELY: 4
+
+
+
+APPLE CUSTOMER SERVICE WAITING LIST
+SEQUENCE   NAME                 ARRIVAL DATE/TIME          PURPOSE OF VISIT|
+1         |Joe                 |09/30/2009       12:02  |Not doing anything|
+
+
+There are 1 Customers waiting to be served
+
+1) New Customer Arrival
+2) Serve Customer
+3) Customer left- remove from waiting list
+4) List all customers waiting for service
+5)Quit
+CHOOSE WISELY: 3
+
+Who left? (If you're stuck, type "BREAK" in all caps WITH quotesJoe
+
+1) New Customer Arrival
+2) Serve Customer
+3) Customer left- remove from waiting list
+4) List all customers waiting for service
+5)Quit
+CHOOSE WISELY: 4
+
+
+
+APPLE CUSTOMER SERVICE WAITING LIST
+SEQUENCE   NAME                 ARRIVAL DATE/TIME          PURPOSE OF VISIT|
+
+
+There are 0 Customers waiting to be served
+
+1) New Customer Arrival
+2) Serve Customer
+3) Customer left- remove from waiting list
+4) List all customers waiting for service
+5)Quit
+CHOOSE WISELY: ^C
+gek@Buster:~/Programming/CS 215/Programming Project 3$ 
+

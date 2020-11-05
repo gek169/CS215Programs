@@ -1,0 +1,14 @@
+On the Random.txt from the site:
+
+gek@gek-pc:~/Programming/CS 215$ ./compile\ code\ to\ test.sh 
+gek@gek-pc:~/Programming/CS 215$ ./testing.out 
+
+Number of numbers:
+100
+Sum the numbers:
+24103
+Average of the numbers:
+241.03
+gek@gek-pc:~/Programming/CS 215$ 
+
+

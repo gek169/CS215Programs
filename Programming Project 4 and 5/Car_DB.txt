@@ -1,0 +1,19 @@
+
+#CAR DATABASE FILE, 0 CALORIES
+#NOW WITHOUT GLUTEN
+Ford Taurus
+2018 Red Sedan Gasoline 29295.1
+Chevrolet Bolt Premier
+2019 Gray Sedan Electric 41020.9
+Toyota Rav 4
+2017 Brown SUV gasoline 25500.6
+Ford F150
+2009 Black Truck Diesel 32427.8
+Dodge Charger
+2016 Yellow Sports Gasoline 35000
+Mercedes Benz Metris Passenger
+2015 White Minivan Gasoline 50132.4
+Smelly Smellycar
+1999 Invisible CruiseVessel AtomicBombs 9
+Fred Frummington
+2019 UglyBrown Ugly Diesel 12000

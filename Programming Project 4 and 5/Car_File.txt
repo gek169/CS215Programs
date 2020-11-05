@@ -1,0 +1,22 @@
+#CAR FILE DATABASE
+#FILE COMMENTS MUST START WITH POUND SYMBOL
+Ford Taurus
+2018 Red Sedan Gasoline 29295.08
+
+
+
+Chevrolet Bolt Premier
+
+2019 Gray Sedan Electric 41020.95
+
+Toyota Rav 4
+
+#Notice how this one says gasoline with a little g? That could cause problems.
+2017 Brown SUV gasoline 25500.63
+Ford F150
+2009 Black Truck Diesel 32427.76
+Dodge Charger
+2016 Yellow Sports Gasoline 35000.00
+Mercedes Benz Metris Passenger
+#notice how these spaces cause no issue. Please don't count off points because I used std::vector to parse strings, it's not a member of the class afterall so it's technically according to spec
+    2015   White    Minivan     Gasoline 50132.38

@@ -1,0 +1,529 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~
+20k data
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Algorithm: 
+Bubble sort
+TEST # 1
+Swaps: 99298338
+Loops: 397220000
+Time: 0.66731
+TEST # 2
+Swaps: 99871387
+Loops: 399120000
+Time: 0.658748
+TEST # 3
+Swaps: 99871387
+Loops: 399120000
+Time: 0.651559
+TEST # 4
+Swaps: 100538288
+Loops: 397280000
+Time: 0.648604
+TEST # 5
+Swaps: 99401113
+Loops: 396040000
+Time: 0.64264
+TEST # 6
+Swaps: 99401113
+Loops: 396040000
+Time: 0.643808
+TEST # 7
+Swaps: 99899673
+Loops: 399740000
+Time: 0.648049
+TEST # 8
+Swaps: 100248770
+Loops: 398560000
+Time: 0.645044
+TEST # 9
+Swaps: 100248770
+Loops: 398560000
+Time: 0.645235
+TEST # 10
+Swaps: 99838462
+Loops: 397160000
+Time: 0.645905
+
+Algorithm: 
+Selection sort
+TEST # 1
+Swaps: 20000
+Loops: 200010000
+Time: 0.108012
+TEST # 2
+Swaps: 20000
+Loops: 200010000
+Time: 0.107118
+TEST # 3
+Swaps: 20000
+Loops: 200010000
+Time: 0.107147
+TEST # 4
+Swaps: 20000
+Loops: 200010000
+Time: 0.107089
+TEST # 5
+Swaps: 20000
+Loops: 200010000
+Time: 0.107129
+TEST # 6
+Swaps: 20000
+Loops: 200010000
+Time: 0.107234
+TEST # 7
+Swaps: 20000
+Loops: 200010000
+Time: 0.107091
+TEST # 8
+Swaps: 20000
+Loops: 200010000
+Time: 0.107327
+TEST # 9
+Swaps: 20000
+Loops: 200010000
+Time: 0.107099
+TEST # 10
+Swaps: 20000
+Loops: 200010000
+Time: 0.108041
+
+Algorithm: 
+Shell sort
+TEST # 1
+Swaps: 260019
+Loops: 373129
+Time: 0.001791
+TEST # 2
+Swaps: 260019
+Loops: 373129
+Time: 0.001798
+TEST # 3
+Swaps: 260019
+Loops: 373129
+Time: 0.001792
+TEST # 4
+Swaps: 260019
+Loops: 373129
+Time: 0.001794
+TEST # 5
+Swaps: 260019
+Loops: 373129
+Time: 0.001796
+TEST # 6
+Swaps: 260019
+Loops: 373129
+Time: 0.001801
+TEST # 7
+Swaps: 260019
+Loops: 373129
+Time: 0.001782
+TEST # 8
+Swaps: 260019
+Loops: 373129
+Time: 0.001784
+TEST # 9
+Swaps: 260019
+Loops: 373129
+Time: 0.001798
+TEST # 10
+Swaps: 260019
+Loops: 373129
+Time: 0.001783
+
+Algorithm: 
+Quick sort
+TEST # 1
+Swaps: 67760
+Loops: 234105
+Time: 0.001111
+TEST # 2
+Swaps: 67760
+Loops: 234105
+Time: 0.001101
+TEST # 3
+Swaps: 67760
+Loops: 234105
+Time: 0.0011
+TEST # 4
+Swaps: 67760
+Loops: 234105
+Time: 0.0011
+TEST # 5
+Swaps: 67760
+Loops: 234105
+Time: 0.001098
+TEST # 6
+Swaps: 67760
+Loops: 234105
+Time: 0.001101
+TEST # 7
+Swaps: 67760
+Loops: 234105
+Time: 0.001097
+TEST # 8
+Swaps: 67760
+Loops: 234105
+Time: 0.001099
+TEST # 9
+Swaps: 67760
+Loops: 234105
+Time: 0.001099
+TEST # 10
+Swaps: 67760
+Loops: 234105
+Time: 0.001098
+
+~~~~~~~~~~~~~~~~~~~~~~~~~
+10k data
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Algorithm: 
+Bubble sort
+TEST # 1
+Swaps: 24935968
+Loops: 197900000
+Time: 0.209692
+TEST # 2
+Swaps: 25357085
+Loops: 196860000
+Time: 0.204541
+TEST # 3
+Swaps: 25357085
+Loops: 196860000
+Time: 0.204523
+TEST # 4
+Swaps: 25357085
+Loops: 196860000
+Time: 0.2047
+TEST # 5
+Swaps: 25357085
+Loops: 196860000
+Time: 0.204663
+TEST # 6
+Swaps: 25357085
+Loops: 196860000
+Time: 0.204934
+TEST # 7
+Swaps: 25011468
+Loops: 197480000
+Time: 0.205556
+TEST # 8
+Swaps: 25011468
+Loops: 197480000
+Time: 0.205658
+TEST # 9
+Swaps: 25011468
+Loops: 197480000
+Time: 0.205299
+TEST # 10
+Swaps: 25011468
+Loops: 197480000
+Time: 0.205757
+
+Algorithm: 
+Selection sort
+TEST # 1
+Swaps: 20000
+Loops: 200010000
+Time: 0.109627
+TEST # 2
+Swaps: 20000
+Loops: 200010000
+Time: 0.108587
+TEST # 3
+Swaps: 20000
+Loops: 200010000
+Time: 0.106868
+TEST # 4
+Swaps: 20000
+Loops: 200010000
+Time: 0.106529
+TEST # 5
+Swaps: 20000
+Loops: 200010000
+Time: 0.106649
+TEST # 6
+Swaps: 20000
+Loops: 200010000
+Time: 0.106605
+TEST # 7
+Swaps: 20000
+Loops: 200010000
+Time: 0.106663
+TEST # 8
+Swaps: 20000
+Loops: 200010000
+Time: 0.106834
+TEST # 9
+Swaps: 20000
+Loops: 200010000
+Time: 0.106945
+TEST # 10
+Swaps: 20000
+Loops: 200010000
+Time: 0.106827
+
+Algorithm: 
+Shell sort
+TEST # 1
+Swaps: 260019
+Loops: 147997
+Time: 0.001038
+TEST # 2
+Swaps: 260019
+Loops: 147997
+Time: 0.001005
+TEST # 3
+Swaps: 260019
+Loops: 147997
+Time: 0.001009
+TEST # 4
+Swaps: 260019
+Loops: 147997
+Time: 0.001008
+TEST # 5
+Swaps: 260019
+Loops: 147997
+Time: 0.001009
+TEST # 6
+Swaps: 260019
+Loops: 147997
+Time: 0.001011
+TEST # 7
+Swaps: 260019
+Loops: 147997
+Time: 0.00101
+TEST # 8
+Swaps: 260019
+Loops: 147997
+Time: 0.001012
+TEST # 9
+Swaps: 260019
+Loops: 147997
+Time: 0.001015
+TEST # 10
+Swaps: 260019
+Loops: 147997
+Time: 0.001009
+
+Algorithm: 
+Quick sort
+TEST # 1
+Swaps: 92270
+Loops: 221078
+Time: 0.000708
+TEST # 2
+Swaps: 92270
+Loops: 221078
+Time: 0.00069
+TEST # 3
+Swaps: 92270
+Loops: 221078
+Time: 0.000692
+TEST # 4
+Swaps: 92270
+Loops: 221078
+Time: 0.000742
+TEST # 5
+Swaps: 92270
+Loops: 221078
+Time: 0.000711
+TEST # 6
+Swaps: 92270
+Loops: 221078
+Time: 0.00071
+TEST # 7
+Swaps: 92270
+Loops: 221078
+Time: 0.000707
+TEST # 8
+Swaps: 92270
+Loops: 221078
+Time: 0.000689
+TEST # 9
+Swaps: 92270
+Loops: 221078
+Time: 0.000689
+TEST # 10
+Swaps: 92270
+Loops: 221078
+Time: 0.000688
+
+
+~~~~~~~~~~~~~
+2k data
+~~~~~~~~~~~~~
+
+Algorithm: 
+Bubble sort
+TEST # 1
+Swaps: 1031532
+Loops: 39300000
+Time: 0.027468
+TEST # 2
+Swaps: 1031532
+Loops: 39300000
+Time: 0.02366
+TEST # 3
+Swaps: 1031532
+Loops: 39300000
+Time: 0.023612
+TEST # 4
+Swaps: 1031532
+Loops: 39300000
+Time: 0.023614
+TEST # 5
+Swaps: 1031532
+Loops: 39300000
+Time: 0.023598
+TEST # 6
+Swaps: 1031532
+Loops: 39300000
+Time: 0.023628
+TEST # 7
+Swaps: 1031532
+Loops: 39300000
+Time: 0.023666
+TEST # 8
+Swaps: 1031532
+Loops: 39300000
+Time: 0.023632
+TEST # 9
+Swaps: 1031532
+Loops: 39300000
+Time: 0.023594
+TEST # 10
+Swaps: 1031532
+Loops: 39300000
+Time: 0.023629
+
+Algorithm: 
+Selection sort
+TEST # 1
+Swaps: 20000
+Loops: 200010000
+Time: 0.108858
+TEST # 2
+Swaps: 20000
+Loops: 200010000
+Time: 0.108822
+TEST # 3
+Swaps: 20000
+Loops: 200010000
+Time: 0.108824
+TEST # 4
+Swaps: 20000
+Loops: 200010000
+Time: 0.108922
+TEST # 5
+Swaps: 20000
+Loops: 200010000
+Time: 0.108936
+TEST # 6
+Swaps: 20000
+Loops: 200010000
+Time: 0.108925
+TEST # 7
+Swaps: 20000
+Loops: 200010000
+Time: 0.108833
+TEST # 8
+Swaps: 20000
+Loops: 200010000
+Time: 0.108766
+TEST # 9
+Swaps: 20000
+Loops: 200010000
+Time: 0.108805
+TEST # 10
+Swaps: 20000
+Loops: 200010000
+Time: 0.108802
+
+Algorithm: 
+Shell sort
+TEST # 1
+Swaps: 260019
+Loops: 18999
+Time: 0.000481
+TEST # 2
+Swaps: 260019
+Loops: 18999
+Time: 0.000482
+TEST # 3
+Swaps: 260019
+Loops: 18999
+Time: 0.000482
+TEST # 4
+Swaps: 260019
+Loops: 18999
+Time: 0.000482
+TEST # 5
+Swaps: 260019
+Loops: 18999
+Time: 0.000481
+TEST # 6
+Swaps: 260019
+Loops: 18999
+Time: 0.000482
+TEST # 7
+Swaps: 260019
+Loops: 18999
+Time: 0.000481
+TEST # 8
+Swaps: 260019
+Loops: 18999
+Time: 0.000482
+TEST # 9
+Swaps: 260019
+Loops: 18999
+Time: 0.000482
+TEST # 10
+Swaps: 260019
+Loops: 18999
+Time: 0.000482
+
+Algorithm: 
+Quick sort
+TEST # 1
+Swaps: 121740
+Loops: 43198
+Time: 0.000358
+TEST # 2
+Swaps: 121740
+Loops: 43198
+Time: 0.000352
+TEST # 3
+Swaps: 121740
+Loops: 43198
+Time: 0.000351
+TEST # 4
+Swaps: 121740
+Loops: 43198
+Time: 0.000352
+TEST # 5
+Swaps: 121740
+Loops: 43198
+Time: 0.000353
+TEST # 6
+Swaps: 121740
+Loops: 43198
+Time: 0.000349
+TEST # 7
+Swaps: 121740
+Loops: 43198
+Time: 0.000349
+TEST # 8
+Swaps: 121740
+Loops: 43198
+Time: 0.000349
+TEST # 9
+Swaps: 121740
+Loops: 43198
+Time: 0.000348
+TEST # 10
+Swaps: 121740
+Loops: 43198
+Time: 0.000364
+

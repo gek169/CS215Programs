@@ -1,0 +1,232 @@
+gek@Buster:~/Programming/CS 215/Programming Project 4 and 5$ ./main.out 
+
+
+1
+
+Where do you want to go today?
+1 Enter More Data
+2 Display Information
+3 search for a car
+4 Make like a tree and get out of here!
+3
+
+ENTER MAKE AND MODEL (case sensitive): Smelly
+
+ENTER CLASS (case sensitive): Se
+
+ENTER COLOR (case sensitive): S
+
+Ford Taurus
+Year: 2018
+Color: Red
+Class: Sedan
+Fuel type: Gasoline
+Price: 29295.1
+
+Chevrolet Bolt Premier
+Year: 2019
+Color: Gray
+Class: Sedan
+Fuel type: Electric
+Price: 41020.9
+
+Smelly Smellycar
+Year: 1999
+Color: Invisible
+Class: CruiseVessel
+Fuel type: AtomicBombs
+Price: 9
+
+Where do you want to go today?
+1 Enter More Data
+2 Display Information
+3 search for a car
+4 Make like a tree and get out of here!
+3    
+
+ENTER MAKE AND MODEL (case sensitive): Smelly
+
+ENTER CLASS (case sensitive): QQQQQ
+
+ENTER COLOR (case sensitive): QQQQQ
+
+Smelly Smellycar
+Year: 1999
+Color: Invisible
+Class: CruiseVessel
+Fuel type: AtomicBombs
+Price: 9
+
+Where do you want to go today?
+1 Enter More Data
+2 Display Information
+3 search for a car
+4 Make like a tree and get out of here!
+2
+
+Ford Taurus
+Year: 2018
+Color: Red
+Class: Sedan
+Fuel type: Gasoline
+Price: 29295.1
+
+Chevrolet Bolt Premier
+Year: 2019
+Color: Gray
+Class: Sedan
+Fuel type: Electric
+Price: 41020.9
+
+Toyota Rav 4
+Year: 2017
+Color: Brown
+Class: SUV
+Fuel type: gasoline
+Price: 25500.6
+
+Ford F150
+Year: 2009
+Color: Black
+Class: Truck
+Fuel type: Diesel
+Price: 32427.8
+
+Dodge Charger
+Year: 2016
+Color: Yellow
+Class: Sports
+Fuel type: Gasoline
+Price: 35000
+
+Mercedes Benz Metris Passenger
+Year: 2015
+Color: White
+Class: Minivan
+Fuel type: Gasoline
+Price: 50132.4
+
+Smelly Smellycar
+Year: 1999
+Color: Invisible
+Class: CruiseVessel
+Fuel type: AtomicBombs
+Price: 9
+
+Where do you want to go today?
+1 Enter More Data
+2 Display Information
+3 search for a car
+4 Make like a tree and get out of here!
+1
+
+What is the make and model of the car? Fred Frummington
+
+Color?Ugly Brown
+
+Year? 2019
+
+Class? Ugly
+
+Fuel Type? Diesel
+
+Price? 12000
+
+Where do you want to go today?
+1 Enter More Data
+2 Display Information
+3 search for a car
+4 Make like a tree and get out of here!
+2
+
+Ford Taurus
+Year: 2018
+Color: Red
+Class: Sedan
+Fuel type: Gasoline
+Price: 29295.1
+
+Chevrolet Bolt Premier
+Year: 2019
+Color: Gray
+Class: Sedan
+Fuel type: Electric
+Price: 41020.9
+
+Toyota Rav 4
+Year: 2017
+Color: Brown
+Class: SUV
+Fuel type: gasoline
+Price: 25500.6
+
+Ford F150
+Year: 2009
+Color: Black
+Class: Truck
+Fuel type: Diesel
+Price: 32427.8
+
+Dodge Charger
+Year: 2016
+Color: Yellow
+Class: Sports
+Fuel type: Gasoline
+Price: 35000
+
+Mercedes Benz Metris Passenger
+Year: 2015
+Color: White
+Class: Minivan
+Fuel type: Gasoline
+Price: 50132.4
+
+Smelly Smellycar
+Year: 1999
+Color: Invisible
+Class: CruiseVessel
+Fuel type: AtomicBombs
+Price: 9
+
+Fred Frummington
+Year: 2019
+Color: UglyBrown
+Class: Ugly
+Fuel type: Diesel
+Price: 12000
+
+Where do you want to go today?
+1 Enter More Data
+2 Display Information
+3 search for a car
+4 Make like a tree and get out of here!
+3
+
+ENTER MAKE AND MODEL (case sensitive): Frummington
+
+ENTER CLASS (case sensitive): Ugly
+
+ENTER COLOR (case sensitive): Ugly
+
+Fred Frummington
+Year: 2019
+Color: UglyBrown
+Class: Ugly
+Fuel type: Diesel
+Price: 12000
+
+Where do you want to go today?
+1 Enter More Data
+2 Display Information
+3 search for a car
+4 Make like a tree and get out of here!
+4
+
+*slapped on backside of head*
+*Your IQ has decreased to 69 due to brain damage*
+It's LEAVE you idiot!
+"Make like a tree and LEAVE"
+You sound like a damn fool when you say it wrong
+Sorry, my software has detected that you are not smart enough to continue using the computer.
+Perhaps you should take up java programming.
+gek@Buster:~/Programming/CS 215/Programming Project 4 and 5$ 

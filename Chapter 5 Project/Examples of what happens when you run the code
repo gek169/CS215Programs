@@ -1,0 +1,57 @@
+On the Random.txt from the site:
+
+gek@gek-pc:~/Programming/CS 215$ ./compile\ code\ to\ test.sh 
+gek@gek-pc:~/Programming/CS 215$ ./testing.out 
+
+Number of numbers:
+100
+Sum the numbers:
+24103
+Average of the numbers:
+241.03
+gek@gek-pc:~/Programming/CS 215$ 
+
+
+Other test files gave these results, which were always accurate as long as all lines in the file were really numbers
+
+gek@gek-pc:~/Programming/CS 215$ ./testing.out 
+
+Number of numbers:
+22
+Sum the numbers:
+110
+Average of the numbers:
+5
+gek@gek-pc:~/Programming/CS 215$ ./testing.out 
+
+Number of numbers:
+15
+Sum the numbers:
+22639.6
+Average of the numbers:
+1509.31
+gek@gek-pc:~/Programming/CS 215$ ./testing.out 
+
+Number of numbers:
+10
+Sum the numbers:
+45
+Average of the numbers:
+4.5
+gek@gek-pc:~/Programming/CS 215$ ./testing.out 
+
+Number of numbers:
+9
+Sum the numbers:
+45
+Average of the numbers:
+5
+gek@gek-pc:~/Programming/CS 215$ ./testing.out 
+
+Number of numbers:
+9
+Sum the numbers:
+45
+Average of the numbers:
+5
+gek@gek-pc:~/Programming/CS 215$ 

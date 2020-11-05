@@ -1,0 +1,243 @@
+Due to how the program is written, with multiple system("clear") calls, it is impossible to record a complete run log from start to finish without effort.
+
+
+
+|----|----|----|
+|    |    |    |
+|----|----|----|
+|    |    |    |
+|----|----|----|
+|   O|    |    |
+|----|----|----|
+
+Enter you move's cell row and column : 0 0
+
+x: 0
+y: 0
+
+|----|----|----|
+|   X|    |    |
+|----|----|----|
+|    |   O|    |
+|----|----|----|
+|   O|    |    |
+|----|----|----|
+
+Enter you move's cell row and column : 1 0
+
+x: 1
+y: 0
+
+|----|----|----|
+|   X|   X|    |
+|----|----|----|
+|    |   O|   O|
+|----|----|----|
+|   O|    |    |
+|----|----|----|
+
+Enter you move's cell row and column : 2 0
+
+x: 2
+y: 0
+
+CONGLATURATION !!!
+
+YOU HAVE COMPLETED
+A GREAT GAME.
+
+AND PROOVED THE JUSTICE
+OF OUR CULTURE.
+
+NOW GO AND REST OUR
+HEROES !
+
+
+You won
+Played 6 Turns.
+
+|----|----|----|
+|    |    |    |
+|----|----|----|
+|    |    |    |
+|----|----|----|
+|    |    |    |
+|----|----|----|
+
+Enter you move's cell row and column : 1 1
+
+x: 1
+y: 1
+
+|----|----|----|
+|    |    |   O|
+|----|----|----|
+|    |   X|    |
+|----|----|----|
+|    |    |    |
+|----|----|----|
+
+Enter you move's cell row and column : 0 0
+
+x: 0
+y: 0
+
+|----|----|----|
+|   X|    |   O|
+|----|----|----|
+|    |   X|    |
+|----|----|----|
+|    |   O|    |
+|----|----|----|
+
+Enter you move's cell row and column : 2 2
+
+x: 2
+y: 2
+
+CONGLATURATION !!!
+
+YOU HAVE COMPLETED
+A GREAT GAME.
+
+AND PROOVED THE JUSTICE
+OF OUR CULTURE.
+
+NOW GO AND REST OUR
+HEROES !
+
+
+You won
+Played 5 Turns.
+
+|----|----|----|
+|   O|    |    |
+|----|----|----|
+|    |    |    |
+|----|----|----|
+|    |    |    |
+|----|----|----|
+
+Enter you move's cell row and column : 1 1
+
+x: 1
+y: 1
+
+|----|----|----|
+|   O|    |    |
+|----|----|----|
+|    |   X|    |
+|----|----|----|
+|   O|    |    |
+|----|----|----|
+
+Enter you move's cell row and column : 3 3
+
+x: 3
+y: 3
+
+Type the row and column and seperate them with a space, do not press Enter until you have typed BOTH row AND column
+row is bound inclusive between 0 and 2 while column is bound inclusive between 0 and 2
+Origin is at top left, increasing downward and to the right.
+Example input (do not type the quotes): "0 0"
+Column is first because it makes it easy to think in terms of (x,y)
+
+Input something invalid again to exit the program
+Enter you move's cell row and column : 0 1
+
+x: 0
+y: 1
+
+|----|----|----|
+|   O|    |    |
+|----|----|----|
+|   X|   X|    |
+|----|----|----|
+|   O|    |   O|
+|----|----|----|
+
+Enter you move's cell row and column : 2 1
+
+x: 2
+y: 1
+
+CONGLATURATION !!!
+
+YOU HAVE COMPLETED
+A GREAT GAME.
+
+AND PROOVED THE JUSTICE
+OF OUR CULTURE.
+
+NOW GO AND REST OUR
+HEROES !
+
+
+You won
+Played 6 Turns.
+
+|----|----|----|
+|    |    |    |
+|----|----|----|
+|    |    |    |
+|----|----|----|
+|    |    |    |
+|----|----|----|
+
+Enter you move's cell row and column : 3
+3
+
+x: 3
+y: 3
+
+Type the row and column and seperate them with a space, do not press Enter until you have typed BOTH row AND column
+row is bound inclusive between 0 and 2 while column is bound inclusive between 0 and 2
+Origin is at top left, increasing downward and to the right.
+Example input (do not type the quotes): "0 0"
+Column is first because it makes it easy to think in terms of (x,y)
+
+Input something invalid again to exit the program
+Enter you move's cell row and column : 3 3
+
+
+
+//1 screen clear later
+
+
+Thanks for playing.!
+SCOREBOARD:
+PLAYER|CPU
+WIN   |LOSS
+WIN   |LOSS
+WIN   |LOSS
+LOSS  |LOSS
+LOSS  |LOSS
+LOSS  |LOSS
+LOSS  |LOSS
+LOSS  |LOSS
+LOSS  |LOSS
+LOSS  |LOSS
+LOSS  |LOSS
+LOSS  |LOSS
+LOSS  |LOSS
+LOSS  |LOSS
+LOSS  |LOSS
+LOSS  |LOSS
+LOSS  |LOSS
+LOSS  |LOSS
+LOSS  |LOSS
+LOSS  |LOSS
+LOSS  |LOSS
+LOSS  |LOSS
+LOSS  |LOSS
+LOSS  |LOSS
+LOSS  |LOSS
+LOSS  |LOSS
+LOSS  |LOSS
+LOSS  |LOSS
+LOSS  |LOSS
+LOSS  |LOSS
+LOSS  |LOSS
+LOSS  |LOSS
+
+The Player Wins overall with 3 wins.gek@gek-pc:~/Programming/CS 215/Programming Project 1$

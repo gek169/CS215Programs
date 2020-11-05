@@ -1,0 +1,76 @@
+gek@Buster:~/Programming/CS 215/Programming Project 3$ ssh grace.bluegrass.kctcs.edu -ldwebster0035
+Password: 
+
+#################################################
+#:::::::::::::::::::::::::::::::::::::::::::::::#
+#:#############################################:#
+#:#                                           #:#
+#:#                Welcome to                 #:#
+#:#         grace.bluegrass.kctcs.edu         #:#
+#:#                     a                     #:#
+#:#  Bluegrass Community & Technical College  #:#
+#:#                  server.                  #:#
+#:#                                           #:#
+#:#############################################:#
+#:::::::::::::::::::::::::::::::::::::::::::::::#
+#################################################
+
+Last login: Fri Apr  5 20:00:29 2019 from 75.88.114.56
+dwebster0035@grace:~$ clear
+dwebster0035@grace:~$ cd Programming/
+dwebster0035@grace:~/Programming$ ls
+CIT105Project  CS_215
+dwebster0035@grace:~/Programming$ cd CS_215/
+dwebster0035@grace:~/Programming/CS_215$ ls
+PROJ3
+dwebster0035@grace:~/Programming/CS_215$ cd PROJ3/
+dwebster0035@grace:~/Programming/CS_215/PROJ3$ ls
+compile code to test.sh  testing code.cpp  testing.out
+dwebster0035@grace:~/Programming/CS_215/PROJ3$ ./compile\ code\ to\ test.sh 
+testing code.cpp:9:17: warning: non-static data member initializers only available with -std=c++11 or -std=gnu++11
+ #define nullptr 0
+                 ^
+testing code.cpp:22:19: note: in expansion of macro ‘nullptr’
+  ListNode* next = nullptr;
+                   ^
+testing code.cpp:9:17: warning: non-static data member initializers only available with -std=c++11 or -std=gnu++11
+ #define nullptr 0
+                 ^
+testing code.cpp:199:20: note: in expansion of macro ‘nullptr’
+   ListNode* head = nullptr;
+                    ^
+testing code.cpp:200:25: warning: non-static data member initializers only available with -std=c++11 or -std=gnu++11
+   unsigned int Length = 0;
+                         ^
+testing code.cpp: In function ‘void Argue(ListNode*)’:
+testing code.cpp:257:23: warning: ignoring return value of ‘int system(const char*)’, declared with attribute warn_unused_result [-Wunused-result]
+  system(CLEAR_COMMAND);
+                       ^
+testing code.cpp: In function ‘void Item(ListNode*)’:
+testing code.cpp:295:23: warning: ignoring return value of ‘int system(const char*)’, declared with attribute warn_unused_result [-Wunused-result]
+  system(CLEAR_COMMAND);
+                       ^
+testing code.cpp: In function ‘void CustomerServiceBattle(ListNode*)’:
+testing code.cpp:360:23: warning: ignoring return value of ‘int system(const char*)’, declared with attribute warn_unused_result [-Wunused-result]
+  system(CLEAR_COMMAND);
+                       ^
+testing code.cpp:379:26: warning: ignoring return value of ‘int system(const char*)’, declared with attribute warn_unused_result [-Wunused-result]
+     system(CLEAR_COMMAND);
+                          ^
+testing code.cpp:383:26: warning: ignoring return value of ‘int system(const char*)’, declared with attribute warn_unused_result [-Wunused-result]
+     system(CLEAR_COMMAND);
+                          ^
+testing code.cpp:392:26: warning: ignoring return value of ‘int system(const char*)’, declared with attribute warn_unused_result [-Wunused-result]
+     system(CLEAR_COMMAND);
+                          ^
+testing code.cpp:396:26: warning: ignoring return value of ‘int system(const char*)’, declared with attribute warn_unused_result [-Wunused-result]
+     system(CLEAR_COMMAND);
+                          ^
+testing code.cpp:403:26: warning: ignoring return value of ‘int system(const char*)’, declared with attribute warn_unused_result [-Wunused-result]
+     system(CLEAR_COMMAND);
+                          ^
+testing code.cpp:407:26: warning: ignoring return value of ‘int system(const char*)’, declared with attribute warn_unused_result [-Wunused-result]
+     system(CLEAR_COMMAND);
+                          ^
+dwebster0035@grace:~/Programming/CS_215/PROJ3$ 
+ on grace.sh
